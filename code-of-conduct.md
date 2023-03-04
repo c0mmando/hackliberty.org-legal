@@ -12,7 +12,7 @@ This applies to conversation in the any room in the Hack Liberty matrix communit
 - <mark>**INSTANT BAN**</mark> for disruptive behavior, spam, or flooding the chat
 - <mark>**INSTANT BAN**</mark> for any harassment as defined below
 - <mark>**WARNING**</mark> and <mark>**DELETE**</mark> for any URLs containing link shorteners
-- <mark>**WARNING**</mark> or <mark>BAN</mark> for trolling, bullying, stalking, or harassment
+- <mark>**WARNING**</mark> or <mark>**BAN**</mark> for trolling, bullying or stalking
 - <mark>**WARNING**</mark> for offtopic discussions or unnecessary drama
 
 ## **Community Guidelines**
