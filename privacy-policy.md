@@ -211,7 +211,7 @@ All of our users' data for the Service currently resides in the same database cl
 
 ### 2.13 What Should I Do If I Find a Security Vulnerability in the Service?
 
-If you have discovered a security concern, please email us at contact@matrix.org. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to contact@matrix.org our highest priority, and work to address any issues that arise as quickly as possible.
+If you have discovered a security concern, please email us at contact@hackliberty.org. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to contact@hackliberty.org our highest priority, and work to address any issues that arise as quickly as possible.
 
 Please act in good faith towards our users' privacy and data during your disclosure. White hat security researchers are always appreciated.
 
