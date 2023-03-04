@@ -116,7 +116,7 @@ You agree that you shall not:
 
 * Use the Service for any unlawful purposes or in support of illegal activities under Icelandic law. By using the Service, you agree to comply with all applicable laws governing your online conduct and content
 
-* Act in a way that is in violation of our [Code of Conduct](https://hackliberty.org/legal/code-of-conduct) in rooms that are part of the Matrix community ([#hackliberty.org:hackliberty.org](https://matrix.to/#/#hackliberty.org:hackliberty.org)).
+* Act in a way that is in violation of our [Code of Conduct](https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md) in rooms that are part of the Matrix community ([#hackliberty.org:hackliberty.org](https://matrix.to/#/#hackliberty.org:hackliberty.org)).
 
 * Violate the rights of Hack Liberty or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
 
