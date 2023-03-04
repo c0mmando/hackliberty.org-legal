@@ -100,8 +100,6 @@ You agree that you shall not:
 
 * Access or attempt to access any material that you are not authorized to access.
 
-* Submit or transmit any material that violates or infringes the rights of others including, without limitation, patent, trademark, trade secret, copyright, publicity, or other proprietary rights. Please see our [Copyright Policy](https://hackliberty.org/legal/copyright-notice) for further details.
-
 * Disrupt or interfere with the security of, or otherwise cause harm to, the hackliberty.org homeserver, systems resources, accounts, passwords, servers or networks connected to or accessible through the Service or any affiliated or linked sites.
 
 * Use the Service to transmit unsolicited or bulk communications to anyone at all, be they users of the Service, federated Matrix homeservers, or connected on a bridged network.
@@ -226,7 +224,7 @@ This Agreement shall be governed by the laws of Iceland, excluding its conflict 
 
 The Service is licensed, not sold, to you by Hack Liberty for use strictly in accordance with the terms and conditions of this Agreement. Ownership of the Service shall at all times remain with Hack Liberty. Access to the Service is provided to you only to allow you to exercise your rights under this Agreement.
 
-### 15.1 Grant of Licence
+### 15.1 Grant of License
 
 Subject to your acceptance of, and compliance with, this Agreement and any payment requirements for the Service (if applicable), Hack Liberty hereby grants you a limited, non-exclusive, non-transferable, revocable, non-sublicensable licence, in and under our intellectual property rights, to access and use the Services, solely in accordance with the terms and conditions of this Agreement. Unless explicitly stated otherwise, any new features provided by us that augment or enhance the current Service shall also constitute "Service" and shall be subject to these terms and conditions. All rights not expressly granted under this Agreement are retained by Hack Liberty.
 
