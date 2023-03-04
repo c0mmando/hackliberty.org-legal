@@ -6,14 +6,13 @@ This applies to conversation in the any room in the Hack Liberty matrix communit
 - <mark>**Don’t do to others what you don’t want done to you**</mark>
 - <mark>**INSTANT BAN**</mark> for revealing personal information about yourself or others
 - <mark>**INSTANT BAN**</mark> for incitement of violence or self harm
-- <mark>**INSTANT BAN**</mark> for porn, gore, lewd, degenerate, violent, or NSFW content
+- <mark>**INSTANT BAN**</mark> for porn, gore, lewd, violent, or NSFW content
 - <mark>**INSTANT BAN**</mark> for unsoliciated advertising or spam
-- <mark>**INSTANT BAN**</mark> for posting URLs to offensive material, information grabbers, or malware
-- <mark>**INSTANT BAN**</mark> for disruptive behavior, spam, or flooding the chat
+- <mark>**INSTANT BAN**</mark> for posting URLs to shock sites, information grabbers, or malware
+- <mark>**WARNING**</mark> OR <mark>**BAN**</mark> for disruptive behavior such as; spam, flooding the chat, offtopic discussions, or unnecessary drama
 - <mark>**INSTANT BAN**</mark> for any harassment as defined below
 - <mark>**WARNING**</mark> and <mark>**DELETE**</mark> for any URLs containing link shorteners
 - <mark>**WARNING**</mark> or <mark>**BAN**</mark> for trolling, bullying or stalking
-- <mark>**WARNING**</mark> for offtopic discussions or unnecessary drama
 
 ## **Community Guidelines**
 
