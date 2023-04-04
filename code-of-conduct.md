@@ -20,7 +20,7 @@ This applies to conversation in the any room in the Hack Liberty matrix communit
 -  **Be friendly and patient**
 -  **Treat each other with dignity and respect**
 -  **Agree to disagree if a discussion is no longer productive**
-- **Foster an evironment of information sharing and collaboration**
+- **Foster an environment of information sharing and collaboration**
 
 ## Definitions
 
