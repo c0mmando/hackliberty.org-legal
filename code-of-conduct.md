@@ -9,8 +9,9 @@ This applies to conversation in the any room in the Hack Liberty matrix communit
 - <mark>**INSTANT BAN**</mark> for porn, gore, lewd, violent, or NSFW content
 - <mark>**INSTANT BAN**</mark> for unsoliciated advertising or spam
 - <mark>**INSTANT BAN**</mark> for posting URLs to shock sites, information grabbers, or malware
-- <mark>**WARNING**</mark> OR <mark>**BAN**</mark> for disruptive behavior such as; spam, flooding the chat, offtopic discussions, or unnecessary drama
 - <mark>**INSTANT BAN**</mark> for any harassment as defined below
+- <mark>**INSTANT BAN**</mark> for global @room pings or gratuitous direct pinging
+- <mark>**WARNING**</mark> OR <mark>**BAN**</mark> for disruptive behavior such as; spam, flooding the chat, offtopic discussions, or unnecessary drama
 - <mark>**WARNING**</mark> and <mark>**DELETE**</mark> for any URLs containing link shorteners
 - <mark>**WARNING**</mark> or <mark>**BAN**</mark> for trolling, bullying or stalking
 
